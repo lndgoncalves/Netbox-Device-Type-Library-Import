@@ -64,5 +64,5 @@ python nb-dt-import.py --vendors apc
 `--vendors` also accepts a list of vendors so that multiple vendors could be imported. 
 
 ```
-python nb-dt-import.py --vendors apc juniper
+python nb-dt-import.py --vendor apc juniper
 ```
